@@ -1,0 +1,12 @@
+name: nycshiny
+title: nycshiny
+username:
+account: coyens
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 650249
+bundleId: 1820013
+url: https://coyens.shinyapps.io/nycshiny/
+when: 1547735009.37102
+asMultiple: FALSE
+asStatic: FALSE

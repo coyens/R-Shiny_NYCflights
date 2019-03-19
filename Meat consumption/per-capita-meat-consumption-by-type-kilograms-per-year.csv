@@ -1,4 +1,4 @@
-Entity,Code,Year,Meat (other) (kg),Mutton & goat (kg),Beef and buffalo (kg),Pigmeat (kg),Poultry (kg)
+Entity,Code,Year,Meat(other),Mutton_and_goat,Beef_and_buffalo,Pigmeat,Poultry
 Afghanistan,AFG,1961,0.85,8.18,4.8,,0.63
 Afghanistan,AFG,1962,0.88,7.92,5.01,,0.66
 Afghanistan,AFG,1963,1.07,8.09,5.06,,0.66
